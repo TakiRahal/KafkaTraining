@@ -1,0 +1,4 @@
+com\consumer\config\TeestNew.class
+com\consumer\service\ConsumerStaticService.class
+com\consumer\config\ProducerConfig.class
+com\consumer\controller\ConsumerTestController.class

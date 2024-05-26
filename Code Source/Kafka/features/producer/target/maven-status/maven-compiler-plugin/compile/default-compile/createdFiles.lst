@@ -1,0 +1,4 @@
+com\producer\service\ProducerService.class
+com\producer\config\KafkaProducerConfig.class
+com\producer\controller\ProducerStaticController.class
+com\producer\controller\ProducerWikimediaController.class
